@@ -5,13 +5,11 @@
 
 ### :technologist: About Me :
 
-I am Priyanshu Agrawal 
+### I'm a backend developer, a competitve programmer and a tech enthusiast!
 
-- I'm a pre final year undergrad at Jawaharlal Nehru University
+- :seedling: I'm a pre final year undergrad at Jawaharlal Nehru University 
 
-- I'm a Full Stack Developer (MERN)
-
-- I am also a competitive programmer as I love problem solving
+- :zap: I am also a competitive programmer as I love problem solving
 
 ---
 

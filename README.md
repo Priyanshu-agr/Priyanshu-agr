@@ -5,6 +5,14 @@
 
 ### :technologist: About Me :
 
+I am Priyanshu Agrawal 
+
+- I'm a pre final year undergrad at Jawaharlal Nehru University
+
+- I'm a Full Stack Developer (MERN)
+
+- I am also a competitive programmer as I love problem solving
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
